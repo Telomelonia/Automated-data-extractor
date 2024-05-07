@@ -8,10 +8,11 @@ title_words = input("Please enter the title words: ")
 
 # Launch the application
 subprocess.Popen(r"C:\Program Files\Harzing's Publish or Perish 8\pop8win.exe")
-time.sleep(1)
+time.sleep(2)
 pyautogui.click(x=752, y=458)
 
 # Enter title
+time.sleep(1)
 pyautogui.click(x=676, y=457)
 pyautogui.write(title_words)
 
