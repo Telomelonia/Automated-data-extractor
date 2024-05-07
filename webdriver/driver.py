@@ -14,7 +14,7 @@ service = Service(executable_path='webdriver\chromedriver-win64\chromedriver.exe
 options = webdriver.ChromeOptions()
 
 driver = webdriver.Chrome(service=service, options=options)
-url = "https://www.researchgate.net/profile/Praswasti-Wulan/publication/316360082_Finding_an_Optimum_Period_of_Oxidative_Heat_Treatment_on_SS_316_Catalyst_for_Nanocarbon_Production_from_LDPE_Plastic_Waste/links/593e12d3458515e39875c7fd/Finding-an-Optimum-Period-of-Oxidative-Heat-Treatment-on-SS-316-Catalyst-for-Nanocarbon-Production-from-LDPE-Plastic-Waste.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D"
+url = "https://www.researchgate.net/profile/Gianender-Kajal/publication/364335455_Process_Parameter_Selection_for_Optimizing_the_Weld_Pool_Geometry_of_Stainless_Steel_SS_202_SS_316_of_the_TIG_Welding_using_Taguchi_Method/links/634ac4b576e39959d6c50807/Process-Parameter-Selection-for-Optimizing-the-Weld-Pool-Geometry-of-Stainless-Steel-SS-202-SS-316-of-the-TIG-Welding-using-Taguchi-Method.pdf"
 driver.get(url)
 time.sleep(8)
 if "pdf" in driver.current_url.lower():
@@ -27,5 +27,5 @@ else:
     soup = BeautifulSoup(html_source, 'html.parser')
 
     # Example: Print the title of the page
-    print("Title:", soup.text)
+    print("texts:", soup.text)
 driver.quit()
