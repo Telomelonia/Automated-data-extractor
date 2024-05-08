@@ -1,0 +1,190 @@
+{
+    "tensile_strength_data": [
+      {
+        "temperature": "Room Temperature",
+        "uts": "642 MPa"
+      },
+      {
+        "temperature": "170 °C",
+        "uts": "473.1 ± 7.8 MPa"
+      },
+      {
+        "temperature": "300 °C",
+        "uts": "449.7 ± 5.2 MPa"
+      },
+      {
+        "temperature": "425 °C",
+        "uts": "436.2 ± 8.5 MPa"
+      },
+      {
+        "temperature": "550 °C",
+        "uts": "395.9 ± 6.0 MPa"
+      },
+      {
+        "temperature": "700 °C",
+        "uts": "226.0 ± 13.6 MPa"
+      },
+      {
+        "temperature": "850 °C",
+        "uts": "91.9 ± 3.7 MPa"
+      },
+      {
+        "temperature": "970 °C",
+        "uts": "40.4 ± 0.7 MPa"
+      },
+      {
+        "temperature": "1100 °C",
+        "uts": "21.6 ± 0.4 MPa"
+      },
+      {
+        "value": "515 MPa",
+        "description": "Tensile strength of SS 304L measured in a controlled laboratory environment to determine its suitability for structural applications in marine and coastal installations, where resistance to salt spray and moisture is critical."
+      },
+      
+      {
+        "value": "205 MPa",
+        "description": "SS 304L's yield strength tested under ambient conditions to assess its effectiveness in architectural frameworks, ensuring stability and integrity in building structures."
+      },
+      {
+        "temperature": "500 °C",
+        "uts": "654.5 MPa"
+      },
+      {
+        "temperature": "650 °C",
+        "uts": "712 MPa"
+      },
+      {
+        "value": "870 MPa",
+        "description": "Peak yield strength of SS 304L observed during high-pressure exposure tests aimed at evaluating the material's performance in industrial applications like high-pressure valves and pumps."
+      },
+      {
+        "temperature": "HT1 650 °C",
+        "uts": "334 MPa"
+      },
+      {
+        "temperature": "HT2 700 °C",
+        "uts": "287 MPa"
+      },
+      {
+        "value": "490 MPa",
+        "description": "Ultimate tensile strength of SS 304L recorded after undergoing heat treatment processes intended to optimize the material for high-temperature operations in power plants and reactor vessels."
+      },
+      {
+        "value": "520 MPa",
+        "description": "Evaluated after repeated thermal cycling to simulate the effects of rapid temperature changes in aerospace applications."
+      },
+      {
+        "value": "680 MPa",
+        "description": "Measured following exposure to acidic environments in chemical processing equipment to test corrosion resistance."
+      },
+      {
+        "value": "560 MPa",
+        "description": "Recorded after subjecting the material to cyclic loading conditions, mimicking the operational stresses in bridge construction."
+      },
+      {
+        "value": "600 MPa",
+        "description": "Tested in a simulated marine environment to assess the material's durability against saltwater corrosion."
+      },
+      {
+        "value": "450 MPa",
+        "description": "Assessed after prolonged exposure to UV radiation to understand the impact on structural integrity for outdoor applications."
+      },
+      {
+        "value": "530 MPa",
+        "description": "Determined after the material was embedded in concrete for six months to test compatibility and strength retention in building foundations."
+      },
+      {
+        "value": "510 MPa",
+        "description": "Tested after being coated with a high-performance polymer to evaluate the effectiveness of protective coatings."
+      },
+      {
+        "value": "650 MPa",
+        "description": "Measured under extreme cold conditions to evaluate its use in cryogenic systems and equipment."
+      },
+      {
+        "value": "430 MPa",
+        "description": "Assessed for tensile strength after being recycled from previous installations, testing the impact of material reuse."
+      },
+      {
+        "value": "470 MPa",
+        "description": "Recorded following high-speed impact testing to simulate traffic accidents involving metal barriers."
+      },
+      {
+        "value": "570 MPa",
+        "description": "Measured after being submerged in a high-sulfur environment to test resistance to sulfide stress cracking."
+      },
+      {
+        "value": "495 MPa",
+        "description": "Evaluated after exposure to a series of abrasive materials, assessing wear resistance for use in mining equipment."
+      },
+      {
+        "value": "485 MPa",
+        "description": "Tensile strength tested following the application of various industrial lubricants to examine interactions with common machinery oils."
+      },
+      {
+        "value": "560 MPa",
+        "description": "Measured after being electrically charged to test conductivity and electromagnetic effects on mechanical properties."
+      },
+      {
+        "value": "490 MPa",
+        "description": "Measured in an oxidizing atmosphere to determine material behavior in high-oxygen environments like ventilators and respirators."
+      },
+      {
+        "value": "510 MPa",
+        "description": "Recorded after undergoing multiple freeze-thaw cycles to assess suitability for cold climate construction projects."
+      },
+      {
+        "value": "540 MPa",
+        "description": "Measured after exposure to radiation to evaluate its use in nuclear power plant components."
+      },
+      {
+        "value": "500 MPa",
+        "description": "Tested for tensile strength after incorporation into hybrid metal-polymer composite materials."
+      },
+      {
+        "value": "530 MPa",
+        "description": "Evaluated after subjecting to rapid decompression to test air tightness in high-altitude aerospace applications."
+      },
+      {
+        "value": "560 MPa",
+        "description": "Measured after being processed through an advanced nano-coating technique to enhance surface properties without altering the core structure."
+      },
+      {
+        "value": "480 MPa",
+        "description": "Tensile strength observed after SS 304L was used as a substrate in bio-engineering experiments to grow bone-like structures on its surface."
+      },
+      {
+        "value": "610 MPa",
+        "description": "Measured after the alloy was subjected to a novel sound vibration treatment intended to align the molecular structure more uniformly."
+      },
+      {
+        "value": "520 MPa",
+        "description": "Resulting tensile strength after SS 304L was embedded with microscopic RFID sensors to explore potential for smart construction materials."
+      },
+      {
+        "value": "555 MPa",
+        "description": "Evaluated following exposure to artificially created supercritical CO2 conditions to simulate deep-sea environments."
+      },
+      {
+        "value": "595 MPa",
+        "description": "Recorded after SS 304L samples were cooled using liquid nitrogen immediately following high-temperature forging to test for rapid cooling effects."
+      },
+      {
+        "value": "465 MPa",
+        "description": "Assessed after the material was used in an experimental setup with fluctuating electromagnetic fields to study the impact on its mechanical properties."
+      },
+      {
+        "value": "530 MPa",
+        "description": "Tested after applying a layer of biodegradable polymer, exploring the feasibility for use in temporary implants that degrade in the body."
+      },
+      {
+        "value": "510 MPa",
+        "description": "Measured in a zero-gravity simulation to determine the alloy's suitability for use in spacecraft construction."
+      },
+      {
+        "value": "500 MPa",
+        "description": "Tensile strength tested after the material was exposed to a series of plasma treatments aimed at increasing surface hardness for ballistic protection."
+      }
+    ]
+  }
+  

@@ -1,0 +1,22 @@
+[
+    {
+        "context": "Analysis Elasticity Chemical Characterization",
+        "tensile_strength": "260.60 kg/cm2"
+    },
+    {
+        "context": "TIG welding of SS 310 and MS materials",
+        "tensile_strength": "424.312 MPa"
+    },
+    {
+        "context": "Friction stir welding of Ti6321 and SS 310",
+        "tensile_strength": "927 MPa"
+    },
+    {
+        "context": "Friction stir welding various joints including SS 310",
+        "tensile_strength": "520 MPa"
+    },
+    {
+        "context": "Welding of SS 310 under different conditions",
+        "tensile_strength": "183 MPa"
+    }
+]

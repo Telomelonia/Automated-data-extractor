@@ -1,0 +1,44 @@
+{
+    "Continuous Annealed": {
+    "Longitudinal": {
+    "Yield Strength": 292,
+    "Ultimate Tensile Strength": 472
+    },
+    "Diagonal": {
+    "Yield Strength": 301,
+    "Ultimate Tensile Strength": 475
+    },
+    "Transverse": {
+    "Yield Strength": 310,
+    "Ultimate Tensile Strength": 501
+    }
+    },
+    "Batch Annealed": {
+    "Longitudinal": {
+    "Yield Strength": 315,
+    "Ultimate Tensile Strength": 500
+    },
+    "Diagonal": {
+    "Yield Strength": 311,
+    "Ultimate Tensile Strength": 475
+    },
+    "Transverse": {
+    "Yield Strength": 317,
+    "Ultimate Tensile Strength": 542
+    }
+    },
+    "Cold Rolled": {
+    "Longitudinal": {
+    "Yield Strength": 333,
+    "Ultimate Tensile Strength": 489
+    },
+    "Diagonal": {
+    "Yield Strength": 304,
+    "Ultimate Tensile Strength": 535
+    },
+    "Transverse": {
+    "Yield Strength": 333,
+    "Ultimate Tensile Strength": 489
+    }
+    }
+    }

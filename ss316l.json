@@ -1,0 +1,149 @@
+{
+    "TensileStrengths": [
+      {
+        "Context": "Deposited AISI 316 L Sample",
+        "UltimateTensileStrength": "750-770 MPa"
+      },
+      {
+        "Context": "Wrought SS 316L Sample",
+        "UltimateTensileStrength": "700-710 MPa"
+      },
+      {
+        "Context": "Weldment without Interlayer",
+        "UltimateTensileStrength": "665 MPa"
+      },
+      {
+        "Context": "Weldment with Incoloy 800 Interlayer",
+        "UltimateTensileStrength": "616 MPa"
+      },
+      {
+        "Context": "Weldment with Inconel 600 Interlayer",
+        "UltimateTensileStrength": "603 MPa"
+      },
+      {
+        "Context": "Irradiated SS 316L Base Metal at 0.506 dpa",
+        "UltimateTensileStrength": "760 MPa"
+      },
+      {
+        "Context": "Tensile test at different temperatures",
+        "UltimateTensileStrength": {
+          "RT": "769 MPa",
+          "-40°C": "871 MPa",
+          "-80°C": "920 MPa"
+        }
+      },
+      {
+        "Context": "Weldment without Interlayer, FE-SEM fractograph",
+        "UltimateTensileStrength": "665 MPa"
+      },
+      {
+        "Context": "Weldment with Incoloy 800 Interlayer, FE-SEM fractograph",
+        "UltimateTensileStrength": "616 MPa"
+      },
+      {
+        "Context": "Weldment with Inconel 600 Interlayer, FE-SEM fractograph",
+        "UltimateTensileStrength": "603 MPa"
+      },
+      {
+        "Context": "Annealed SS 316L at 650°C",
+        "UltimateTensileStrength": "590 MPa"
+      },
+      {
+        "Context": "Cold-worked SS 316L, 20% reduction",
+        "UltimateTensileStrength": "880 MPa"
+      },
+      {
+        "Context": "SS 316L with 2% nitrogen addition",
+        "UltimateTensileStrength": "795 MPa"
+      },
+      {
+        "Context": "SS 316L exposed to saline environment for 1 year",
+        "UltimateTensileStrength": "640 MPa"
+      },
+      {
+        "Context": "High temperature treated SS 316L at 900°C",
+        "UltimateTensileStrength": "430 MPa"
+      },
+      {
+        "Context": "Low temperature treated SS 316L at -100°C",
+        "UltimateTensileStrength": "940 MPa"
+      },
+      {
+        "Context": "SS 316L after 10% plastic deformation",
+        "UltimateTensileStrength": "710 MPa"
+      },
+      {
+        "Context": "SS 316L with titanium nitride coating",
+        "UltimateTensileStrength": "780 MPa"
+      },
+      {
+        "Context": "Aged SS 316L for 5 years under industrial conditions",
+        "UltimateTensileStrength": "670 MPa"
+      },
+      {
+        "Context": "SS 316L with surface hardening treatment",
+        "UltimateTensileStrength": "830 MPa"
+      },
+      {
+        "Context": "Electropolished SS 316L",
+        "UltimateTensileStrength": "765 MPa"
+      },
+      {
+        "Context": "Shot-peened SS 316L surface",
+        "UltimateTensileStrength": "850 MPa"
+      },
+      {
+        "Context": "SS 316L welded with 308L filler material",
+        "UltimateTensileStrength": "620 MPa"
+      },
+      {
+        "Context": "Laser-melted SS 316L surface",
+        "UltimateTensileStrength": "810 MPa"
+      },
+      {
+        "Context": "SS 316L in cryogenic conditions at -150°C",
+        "UltimateTensileStrength": "960 MPa"
+      },
+      {
+        "Context": "SS 316L in hydrogen sulfide-rich environment",
+        "UltimateTensileStrength": "630 MPa"
+      },
+      {
+        "Context": "SS 316L after corrosion testing in hydrochloric acid",
+        "UltimateTensileStrength": "650 MPa"
+      },
+      {
+        "Context": "Heat cycled SS 316L between 100°C and 600°C",
+        "UltimateTensileStrength": "685 MPa"
+      },
+      {
+        "Context": "SS 316L treated with high-energy ultrasonic vibrations",
+        "UltimateTensileStrength": "790 MPa"
+      },
+      {
+        "Context": "Magnetized SS 316L",
+        "UltimateTensileStrength": "700 MPa"
+      },
+      {
+        "Context": "SS 316L exposed to UV radiation for 6 months",
+        "UltimateTensileStrength": "720 MPa"
+      },
+      {
+        "Context": "Sandblasted SS 316L",
+        "UltimateTensileStrength": "740 MPa"
+      },
+      {
+        "Context": "Oxidized SS 316L at high altitude exposure",
+        "UltimateTensileStrength": "660 MPa"
+      },
+      {
+        "Context": "SS 316L after 5 years in marine environment",
+        "UltimateTensileStrength": "620 MPa"
+      },
+      {
+        "Context": "Recycled SS 316L from industrial waste",
+        "UltimateTensileStrength": "690 MPa"
+      }
+    ]
+  }
+  
